@@ -10,6 +10,7 @@ The repository is organized into folders by **problem category**. Each file is n
 - My solution for the problem
 
 ### Current Categories
+- **Basic Math Problems**
 - **Arrays**
 - **Strings**
 - **Dynamic Programming**
